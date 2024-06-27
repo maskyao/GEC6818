@@ -1,0 +1,32 @@
+============================================================
+Time  2024/06/23 23:33:36 579 
+============================================================
+[2024/06/23 23:33:36 583] grm_lex    264  SYS_MSG_LOAD  
+[2024/06/23 23:33:36 586] grm_lex    281  SYS_MSG_REGCB  
+[2024/06/23 23:33:36 588] grm_lex    267  SYS_MSG_UNLOAD  
+[2024/06/23 23:33:36 591] grm_lex    281  SYS_MSG_REGCB  
+[2024/06/23 23:33:36 593] grm_lex    251  ISR_MSG_BUILDGRAMMAR  
+[2024/06/23 23:33:36 593] grm_lex    100  grm_type :  bnf  
+[2024/06/23 23:33:36 594] grm_lex    106  engine_type  :  local  
+[2024/06/23 23:33:36 594] grm_lex    106  asr_res_path  :  fo|res/asr/common.jet  
+[2024/06/23 23:33:36 595] grm_lex    106  sample_rate  :  16000  
+[2024/06/23 23:33:36 596] grm_lex    106  grm_build_path  :  res/asr/GrmBuilld  
+[2024/06/23 23:33:36 601] grm_lex    254  ISR_MSG_BUILDGRAMMAR ret =  0  
+[2024/06/23 23:33:36 690] grm_lex    71   0  call  
+============================================================
+Time  2024/06/23 23:34:36 381 
+============================================================
+[2024/06/23 23:34:36 382] grm_lex    264  SYS_MSG_LOAD  
+[2024/06/23 23:34:36 387] grm_lex    281  SYS_MSG_REGCB  
+[2024/06/23 23:34:36 402] grm_lex    267  SYS_MSG_UNLOAD  
+[2024/06/23 23:34:36 409] grm_lex    281  SYS_MSG_REGCB  
+[2024/06/23 23:34:36 411] grm_lex    257  ISR_MSG_UPDATELEXICON  
+[2024/06/23 23:34:36 417] grm_lex    168  contact  16  
+[2024/06/23 23:34:36 422] grm_lex    174  engine_type  :  local  
+[2024/06/23 23:34:36 422] grm_lex    174  text_encoding  :  UTF-8  
+[2024/06/23 23:34:36 423] grm_lex    174  asr_res_path  :  fo|res/asr/common.jet  
+[2024/06/23 23:34:36 423] grm_lex    174  sample_rate  :  16000  
+[2024/06/23 23:34:36 424] grm_lex    174  grm_build_path  :  res/asr/GrmBuilld  
+[2024/06/23 23:34:36 425] grm_lex    174  grammar_list  :  call  
+[2024/06/23 23:34:36 437] grm_lex    260  ISR_MSG_UPDATELEXICON ret =  0  
+[2024/06/23 23:34:36 535] grm_lex    71   0  call  
